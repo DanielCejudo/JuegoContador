@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+target/
+bin/
+
+# Tomcat desplegados
+*.war
+webapps/
+work/
+logs/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+
+# Docker volúmenes locales
+hmb_pgdata/
